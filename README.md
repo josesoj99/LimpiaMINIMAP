@@ -1,0 +1,2 @@
+# LimpiaMINIMAP
+ Eliminar barras minimapa
